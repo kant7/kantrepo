@@ -5,13 +5,13 @@ create table tab_mybatis(
 );
 
 insert into tab_mybatis 
-values ('È£¶ûÀÌ','thosit@naee.com','01044472343');
+values ('ë‚¨ê¶í›ˆ','thosit@naee.com','01044472343');
 
 insert into tab_mybatis 
-values ('¸»ÄÚÀÓ','qewdq@naee.com','1234654');
+values ('í™ê¸¸ë™','qewdq@naee.com','1234654');
 
 insert into tab_mybatis 
-values ('Ä¿ÇÇÀÓ','thosit@naee.com','01044472343');
+values ('ì´ìˆœì‹ ','thosit@naee.com','01044472343');
 
 
 drop table tab_mybatis;
