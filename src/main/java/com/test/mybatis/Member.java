@@ -5,6 +5,10 @@ public class Member {
 	private String _email;
 	private String _phone;
 
+    private String test;
+    private String aaa;
+    private String bbb;
+
 	public Member(){
 		
 	}
