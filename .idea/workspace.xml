@@ -21,7 +21,7 @@
     <file path="/MemberServiceImpl.java" changelist="67811aa3-85b5-486f-9f54-7cad8ac7d5c6" time="1404359213783" ignored="false" />
     <file path="/root-context.xml" changelist="67811aa3-85b5-486f-9f54-7cad8ac7d5c6" time="1406037245383" ignored="false" />
     <file path="/pom.xml" changelist="67811aa3-85b5-486f-9f54-7cad8ac7d5c6" time="1406648199587" ignored="false" />
-    <file path="/Dummy.txt" changelist="67811aa3-85b5-486f-9f54-7cad8ac7d5c6" time="1407160735365" ignored="false" />
+    <file path="/Dummy.txt" changelist="67811aa3-85b5-486f-9f54-7cad8ac7d5c6" time="1407160762719" ignored="false" />
     <file path="$PROJECT_DIR$/../tobymvc/pom.xml" changelist="67811aa3-85b5-486f-9f54-7cad8ac7d5c6" time="1406027163006" ignored="false" />
     <file path="$PROJECT_DIR$/../tobymvc/src/test/java/com/springapp/mvc/AppTests.java" changelist="67811aa3-85b5-486f-9f54-7cad8ac7d5c6" time="1406027163006" ignored="false" />
     <file path="$PROJECT_DIR$/../tobymvc/src/main/java/com/springapp/mvc/HelloController.java" changelist="67811aa3-85b5-486f-9f54-7cad8ac7d5c6" time="1406027339719" ignored="false" />
@@ -960,7 +960,11 @@
       <created>1407160743489</created>
       <updated>1407160743490</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="소스커밋">
+      <created>1407160765861</created>
+      <updated>1407160765861</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
