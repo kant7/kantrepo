@@ -9,4 +9,6 @@ public interface MemberDAO {
 	public void updateMember(String name);
 	public void deleteMember(String name);
 
+    //BCH-1 에서 작업 (work)
+
 }
